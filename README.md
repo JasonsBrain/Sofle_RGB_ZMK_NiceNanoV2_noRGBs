@@ -1,10 +1,6 @@
 # Sofle_RGB_ZMK
 
-72 LED Sofle RGB using ZMK 3.5
-
-![20230421_005150](https://user-images.githubusercontent.com/103195644/233544056-fd9f0372-fd23-49db-a1d4-80f3d91f2b13.jpg)
-
-![keyboard-layout (1)](https://github.com/Preacher325/Sofle_RGB_ZMK/assets/103195644/da32258f-aede-4ab4-9a9b-e10e400d24c1)
+Sofle RGB (by PandaKB.com) using NRF52840 form aliexperss, running ZMK 3.5
 
 Shields: Sofle RGB v2.1 PCB
 
@@ -18,18 +14,14 @@ OLED: 128X32 OLED Screen
 
 Switches: Gateron Brown
 
-Encoders: AlpsAlpine EC11N1524402 
+Keycaps: White Cute Cat Theme Keycap PBT, MOA Profile
 
-LEDS: SK6812MINI
+Encoders: EC11 
 
-Switches: Gikfun Micro Slide Switch Toggle Switch
+Case: 3D Printed
 
-Case: Sofle RGB Analyst Case
+Standoffs: none
 
-Standoffs: 11MM
+Knobs: 3D Printed
 
-Pads: 5mm
-
-Keycaps: Artifact Bloom Series Keycap Set: Glow
-
-Knobs: Glorious Rotary Kno bs
+Official build guide https://pandakb.com/guides/sofle-rgb-mx-build-guide/
