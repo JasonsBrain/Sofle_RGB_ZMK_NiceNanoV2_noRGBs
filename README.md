@@ -7,7 +7,7 @@
 > [!NOTE]
 > Work in progress
 
-Shields: Sofle RGB v2.1 PCB
+**Shields: Sofle RGB v2.1 PCB**
 
 Boards: nrf52840 (nice!nano v2.0 clones)
 
