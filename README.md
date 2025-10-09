@@ -1,16 +1,16 @@
 #0969DA
-
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 # Sofle_RGB_ZMK
 
 ## Sofle RGB (by PandaKB.com) using NRF52840 form aliexperss, running ZMK 3.5
 
 Shields: Sofle RGB v2.1 PCB
 
-Boards: nice!nano v2.0
+Boards: nrf52840 (nice!nano v2.0 clones)
 
 Batteries: none yet
 
-OLED: 128X32 OLED Screen
+OLED: none yet
 
 Switches: Gateron Brown
 
