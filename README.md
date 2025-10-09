@@ -25,3 +25,6 @@ Standoffs: none
 Knobs: 3D Printed
 
 Official build guide https://pandakb.com/guides/sofle-rgb-mx-build-guide/
+
+> [!WARNING]
+> work in progress, use at own risk.
